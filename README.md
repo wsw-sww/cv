@@ -1,2 +1,3 @@
 # cv_assets
-cv
+
+![output](./img/output.gif)
